@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Set up MELIFE ESP32 in ESPHome'
+title:  "Set up MELIFE ESP32 in ESPHome"
 date:   2020-12-02 19:03:26 +0800
 categories: home_assistant esp32 esphome
 ---
