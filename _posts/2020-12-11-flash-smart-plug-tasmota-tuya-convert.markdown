@@ -35,7 +35,7 @@ As you can tell they are very similar, down to the model number. I am located in
 
 I have used a Kali Linux Live system. If I remember correctly the scripts didn't work on my normal Ubuntu system. The reason was that the Wifi adapter must be called wlan0 and not something like wlp3s0 as in Ubuntu. 
 
-Clong the github repo from https://github.com/ct-Open-Source/tuya-convert.git.
+Clone the github repo from https://github.com/ct-Open-Source/tuya-convert.git.
 
     kali@kali:~$ git clone https://github.com/ct-Open-Source/tuya-convert.git
     Cloning into 'tuya-convert'...
@@ -119,14 +119,14 @@ We are now ready to flash the device.
 
 ## 3. Flash the device
 
-Enter the directory 
+Enter the directory (in case you're not in there already):
 
     kali@kali:~$ cd tuya-convert/
     kali@kali:~/tuya-convert$ ls
     config.txt  Dockerfile  install_prereq.sh  README.md  start_flash.sh
     docker      files       LICENSE            scripts
     
-Start the procedure
+Start the procedure:
    
     kali@kali:~/tuya-convert$ sudo ./start_flash.sh 
     tuya-convert v2.4.4
@@ -155,7 +155,7 @@ Start the procedure
     acknowledge that VTRUST and c't Magazine (or Heise Medien GmbH & Co. KG) CAN NOT be 
     held accountable for ANY DAMAGE or LOSS OF FUNCTIONALITY by typing yes + Enter
     
-Confirm by tntering 'yes'.
+Confirm by etntering 'yes'.
     
   
     Checking for network interface wlan0... Found.
@@ -184,7 +184,7 @@ Confirm by tntering 'yes'.
        Make sure nothing else is plugged into your IoT device while attempting to flash.
     3. Press ENTER to continue
     
-Connect for phone, tablet, kindle, etc. and press 'Enter'.
+Connect for phone, tablet, kindle, etc. to the WiFi network your computer has set up for flashing the device. It is called vtrust-flash. Press 'Enter' once it is connected.
 
 
     ======================================================
