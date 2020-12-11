@@ -23,7 +23,7 @@ The vendor has changed the chip a while ago so it is becoming increasingly diffi
 * [Gosund UP111-4-UK](https://www.amazon.co.uk/gp/product/B07ZSDWQQ8) ([config and compability details](https://templates.blakadder.com/gosund_UP111.html))
 * [2nice UP111](https://www.amazon.co.uk/gp/product/B07ZQ34X55) ([config and compability details](https://templates.blakadder.com/2nice-UP111.html)). 
 
-As you can tell they are very similar, down to the model number. I am located in Hong Kong so I need the UK plugs. What I like about them is that they have power monitoring biult in so I can see which device consumes how much electricity.
+As you can tell they are very similar, down to the model number. I am located in Hong Kong so I need UK plugs. What I like about them is that they have power monitoring biult in so I can see which device consumes how much electricity.
 
 ## 2. Set Up Tuya Convert
 
