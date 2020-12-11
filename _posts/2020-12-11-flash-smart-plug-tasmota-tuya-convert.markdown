@@ -20,14 +20,8 @@ General steps:
 
 
 The vendor has changed the chip a while ago so it is becoming increasingly difficult to find flashable plugs. I personally have used 
-Gosund 13A Power Monitoring Plug (https://templates.blakadder.com/gosund_UP111.html)
-https://www.amazon.co.uk/Gosund-Wireless-Function-Monitoring-Required/dp/B07ZSDWQQ8
-
-and
-
- 2nice UP111 Power Monitoring Plug 
-https://templates.blakadder.com/2nice-UP111.html
-https://www.amazon.co.uk/gp/product/B07ZQ34X55/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+* [Gosund UP111-4-UK](https://www.amazon.co.uk/gp/product/B07ZSDWQQ8) ([config and compability details](https://templates.blakadder.com/gosund_UP111.html))
+* [2nice UP111](https://www.amazon.co.uk/gp/product/B07ZQ34X55) ([config and compability details](https://templates.blakadder.com/2nice-UP111.html)). 
 
 As you can tell they are very similar, down to the model number. I am located in Hong Kong so I need the UK plugs. What I like about them is that they have power monitoring biult in so I can see which device consumes how much electricity.
 
